@@ -7,3 +7,5 @@ This tool would make it possible to know the size of elements in the image in pi
 
 **This module has been made thanks to the Scikit-GStat library on Python** (*Mirko Mälicke, & Helge David Schneider. (2019, November 7). Scikit-GStat 0.2.6: A scipy flavoured geostatistical analysis toolbox written in Python.*).
 
+In the example, leaves are estimated at 26 pixels. Then, we reduce the image (with a factor 2) and variogram estimate the leaves at 13 pixels.
+
